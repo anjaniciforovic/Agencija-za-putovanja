@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5C31BCF3-45EA-4BB4-91ED-26C448424AC0}"
+	ProjectSection(SolutionItems) = preProject
+		AgencijaZaPutovanja\App.config = AgencijaZaPutovanja\App.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECE97454-6E36-49EC-9259-9CC5FF54003F}
+	EndGlobalSection
+EndGlobal

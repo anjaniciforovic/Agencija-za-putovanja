@@ -1,0 +1,38 @@
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.csproj.AssemblyReference.cache
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.Properties.Resources.resources
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.csproj.GenerateResource.cache
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.csproj.CoreCompileInputs.cache
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\bin\Debug\AgencijaZaPutovanja.exe.config
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\bin\Debug\AgencijaZaPutovanja.exe
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\bin\Debug\AgencijaZaPutovanja.pdb
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.exe
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.pdb
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.AdminForma.resources
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.IstorijaForma.resources
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.KlijentForma.resources
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.NovaRezervacijaForma.resources
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.PrijavaForma.resources
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.DodajNoviIzletForma.resources
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.DodajNovuRezervacijuForma.resources
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.UnosKorisnikaForma.resources
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.DodajRezervacijuKlijentForma.resources
+C:\Users\uSER\source\repos\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.DetaljniPrikazForma.resources
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\bin\Debug\AgencijaZaPutovanja.exe.config
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\bin\Debug\AgencijaZaPutovanja.exe
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\bin\Debug\AgencijaZaPutovanja.pdb
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.csproj.AssemblyReference.cache
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.AdminForma.resources
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.DodajRezervacijuKlijentForma.resources
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.UnosKorisnikaForma.resources
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.DodajNoviIzletForma.resources
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.DodajNovuRezervacijuForma.resources
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.IstorijaForma.resources
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.KlijentForma.resources
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.NovaRezervacijaForma.resources
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.PrijavaForma.resources
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.DetaljniPrikazForma.resources
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.Properties.Resources.resources
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.csproj.GenerateResource.cache
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.csproj.CoreCompileInputs.cache
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.exe
+C:\Users\uSER\Desktop\Moji Projekti\AgencijaZaPutovanja\AgencijaZaPutovanja\obj\Debug\AgencijaZaPutovanja.pdb
